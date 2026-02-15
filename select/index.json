@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Dum Dee Dum",
+  "base_artist": "Keys N Krates",
+  "createdAt": "2026-02-15T11:49:23.214414Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dum Dee Dum",
+      "artist": "Keys N Krates",
+      "has_synced": false,
+      "path": "select/01_Dum_Dee_Dum_Keys_N_Krates.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Keys N Krates - Dum Dee Dum [Official Music Video] [1ooPp0-UX48]",
+      "artist": "Keys N Krates",
+      "has_synced": true,
+      "path": "select/02_Keys_N_Krates_-_Dum_Dee_Dum_[Official_Music_Video]_[1ooPp0-UX48]_Keys_N_Krates.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Keys N Krates - Dum Dee Dum",
+      "artist": "Keys N Krates",
+      "has_synced": true,
+      "path": "select/03_Keys_N_Krates_-_Dum_Dee_Dum_Keys_N_Krates.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dum Dee Dum",
+      "artist": "Keys N Krates",
+      "has_synced": true,
+      "path": "select/04_Dum_Dee_Dum_Keys_N_Krates.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dum Dee Dum Remix",
+      "artist": "A.J. Willis",
+      "has_synced": false,
+      "path": "select/05_Dum_Dee_Dum_Remix_A.J._Willis.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DUM DEE DUM  (SINGLE GIVEAWAY W/ ANNIE MAC)",
+      "artist": "KEYS N KRATES",
+      "has_synced": false,
+      "path": "select/06_DUM_DEE_DUM_(SINGLE_GIVEAWAY_W__ANNIE_MAC)_KEYS_N_KRATES.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dum Dee Dum (NGHTMRE Remix)",
+      "artist": "Keys N Krates",
+      "has_synced": true,
+      "path": "select/07_Dum_Dee_Dum_(NGHTMRE_Remix)_Keys_N_Krates.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dum Dee Dum",
+      "artist": "Keys N Krates",
+      "has_synced": false,
+      "path": "select/pl_01_Dum_Dee_Dum_Keys_N_Krates.txt"
+    }
+  ]
+}
